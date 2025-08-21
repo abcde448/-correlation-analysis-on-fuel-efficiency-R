@@ -87,11 +87,6 @@ The dataset `mtcars` has **32 cars** with the following features:
 
 ---
 
-##Author
-**Md. Rabbi Hasan**  
-Fresher Data Scientist | R & Python Enthusiast  
-
-📧 Contact: [your_email@example.com]  
-🌐 GitHub: [your_github_profile]  
+📬 Contact - Md. Rabbi Hasan | Data Scientist 📧arafatrabbi668@gmail.com | LinkedIn https://www.linkedin.com/in/md-rabbi-hasan-3249652b1 Passionate about turning raw data into real-world insights through clear, compelling storytelling. 
 
 ---
